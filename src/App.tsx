@@ -17,7 +17,7 @@ import { MockLoadPage } from "./routes/mock-load-page";
 import { MockInterviewPage } from "./routes/mock-interview-page";
 import { Feedback } from "./routes/feedback";
 import Upcoming from "@/routes/upcoming";
-import Pricing from "@/routes/pricing";
+import Pricing from "@/routes/Pricing";
 
 
 
